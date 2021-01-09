@@ -1,0 +1,314 @@
+header{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    padding-top: 30px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 60%;
+    float: right;
+}
+nav ul{
+    list-style: none;
+    float: right;
+}
+nav ul li{
+    float: left;
+    margin-left: 100px;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: rgb(58, 57, 57);
+}
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+    height: 80%;
+}
+.photo{
+    width: 80%;
+    margin: auto;
+}
+.photo h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.photo p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.photo h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 130px;
+}
+.lifestyle1{
+    width: 47%;
+    float: left;
+}
+.lifestyle1 img{
+    width: 100%;
+}
+.lifestyle1 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.lifestyle1 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.lifestyle1 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.lifestyle2{
+    width: 47%;
+    float: right;
+}
+.lifestyle2 img{
+    width: 100%;
+}
+.lifestyle2 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.lifestyle2 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.lifestyle2 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 130px;
+}
+.photodiary1{
+    width: 47%;
+    float: left;
+}
+.photodiary1 img{
+    width: 100%;
+}
+.photodiary1 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.photodiary1 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.photodiary1 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.photodiary2{
+    width: 47%;
+    float: right;
+}
+.photodiary2 img{
+    width: 100%;
+}
+.photodiary2 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.photodiary2 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.photodiary2 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.newsletter{
+    margin-top: 130px;
+    background-color: #f0f0f0;
+    padding: 50px 0px;
+}
+.sign{
+    width: 20%;
+    margin: auto;
+    position: relative;
+}
+.sign h2{
+    text-transform: capitalize;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+.sign input{
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.sign img{
+}
+.img{
+   position: absolute;
+   right: 0;
+   bottom: 0;
+}
+.fotter{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 130px;
+}
+.fotter1{
+    width: 47%;
+    float: left;
+}
+.fotter1 img{
+    width: 100%;
+}
+.fotter1 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.fotter1 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.fotter1 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.fotter2{
+    width: 47%;
+    float: right;
+}
+.fotter2 img{
+    width: 100%;
+}
+.fotter2 h6{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.fotter2 h2{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+.fotter2 p{
+    margin: 0;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+}
+.btn{
+    text-align: center;
+    margin: 130px 0px;
+}
+button{
+    background: transparent;
+    border: none;
+    border: 1px solid black;
+    padding: 20px 25px;
+    font-size: 18px;
+}
+footer{
+    background-color: #f0f0f0;
+    padding: 70px 0px;
+}
+.foot{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.terms{
+     width: 30%;
+     float: left;
+}
+.terms ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.terms ul li{
+    float: left;
+    margin-right: 20px;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: rgb(58, 57, 57);
+}
+.social{
+     width: 40%;
+     float: right;
+}
+.social ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+.social ul li{
+    float: left;
+}
+.social ul li a{
+    text-decoration: none;
+    color: rgb(58, 57, 57);
+    font-size: 16px;
+    margin-left: 20px;
+}
